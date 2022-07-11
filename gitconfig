@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = axelzenker91@gmail.com
+	name = Axel Zenker
